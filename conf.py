@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Web Design and Development - Apssdc'
-copyright = '2020, APSSDC'
-author = 'APSSDC'
+project = 'MEAN Stack Docs'
+copyright = '2020, JNTUK-UCEV'
+author = 'rddvsr.cse'
 
 # The full version, including alpha/beta/rc tags
 release = '1'
